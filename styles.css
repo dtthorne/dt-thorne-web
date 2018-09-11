@@ -155,6 +155,18 @@ html, body {
     width: 100%;
 }
 
+  audio::-internal-media-controls-download-button {
+    display:none;
+}
+
+audio::-webkit-media-controls-enclosure {
+    overflow:hidden;
+}
+
+audio::-webkit-media-controls-panel {
+    width: calc(100% + 30px); /* Adjust as needed */
+}
+
 .album-art-container {
     position: relative;
     margin: 0 auto;
@@ -219,6 +231,7 @@ html, body {
     line-height: 64px;
     color: gray;
 }
+
 
 @media only screen and (max-width: 480px) {
     .top-bar {
