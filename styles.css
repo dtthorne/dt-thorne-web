@@ -223,10 +223,10 @@ html, body {
 
 @media only screen and (max-width: 480px) {
     /* TODO I have a suspicion that this will help with scaling on
-     * the mobile layout. i'm scared to try it though
-    /* html, body { */
-    /*     max-width: 400; */
-    /* } */
+     * the mobile layout. i'm scared to try it though */
+     html, body {
+         max-width: 400;
+    }
     .top-bar {
         padding: 0 8px;
         width: calc(100% - 16px);
