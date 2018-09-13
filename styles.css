@@ -247,8 +247,8 @@ html, body {
     .album-art-container {
         position: relative;
         margin: 0 auto;
-        width: 1024px;
-        height: 1024px;
+        width: 512px;
+        height: 512px;
     }
     .section img {
         height: 100%;
