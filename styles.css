@@ -241,12 +241,16 @@ html, body {
     /*.top-section h1 {
         font-size : 36px;*/
     }
-
+    .album-art-container {
+        position: relative;
+        margin: 0 auto;
+        width: 1024px;
+        height: 1024px;
+    }
     .section img {
         height: 100%;
         width: auto;
     }
-    
     .text-container {
         flex-direction: column;
         padding: 0 8px;
