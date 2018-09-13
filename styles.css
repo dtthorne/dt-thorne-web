@@ -250,6 +250,12 @@ html, body {
         width: 512px;
         height: 512px;
     }
+    .song-text h1 { 
+        font-size: 40px;
+    }
+    .song-text a {
+        font-size: 40px;
+    }
     .section img {
         height: 100%;
         width: auto;
