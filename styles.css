@@ -254,9 +254,9 @@ html, body {
         padding: 0 8px;
     }
 
-    .songs-container {
+    /*.songs-container {
         flex-direction: column;
-    }    
+    }*/
     .song {
         margin-bottom: 16px;
     }
