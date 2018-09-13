@@ -225,7 +225,7 @@ html, body {
     .top-bar {
         padding: 0 8px;
         width: calc(100% - 16px);
-        height: 100px;
+        height: 50px;
     }
     .top-bar .top-bar-content .left-block {
         display: none;
@@ -240,6 +240,9 @@ html, body {
     /*TEST HERE*/
     /*.top-section h1 {
         font-size : 36px;*/
+    }
+    .top-section {
+        height: 500px;
     }
     .album-art-container {
         position: relative;
