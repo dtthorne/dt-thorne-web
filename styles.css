@@ -261,7 +261,8 @@ html, body {
     }
 
     .section img {
-        height: 100%;
+        /* TEST HERE*/
+        /*height: 100%;*/
         width: auto;
     }
     
