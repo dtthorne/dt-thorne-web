@@ -233,8 +233,8 @@ html, body {
 }
 
 .button1:hover {
-    background-color: #3b7f2f; 
-    color: black;
+    background-color: #005605; 
+    color: white;
 }
 
 .button:after {
