@@ -158,8 +158,8 @@ html, body {
 .album-art-container {
     position: relative;
     margin: 0 auto;
-    width: 256px;
-    height: 256px;
+    width: 300px;
+    height: 300px;
 }
 
 .album-art-container img {
@@ -226,12 +226,12 @@ html, body {
 }
 
 .button1 {
-    background-color: #05381d;
+    background-color: #023A52;
     color: white;
 }
 
 .button1:hover {
-    background-color: #094408; 
+    background-color: #006D9C; 
     color: white;
 }
 
