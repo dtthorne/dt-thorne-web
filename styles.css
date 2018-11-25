@@ -12,7 +12,7 @@ html, body {
     background: #1b1b1b;
     align-items: center;
     display: flex;
-    height: 128px;
+    height: 150px;
     width: 100%;
     position: fixed;
     top: 0;
@@ -226,12 +226,12 @@ html, body {
 }
 
 .button1 {
-    background-color: #023A52;
+    background-color: #00471C;
     color: white;
 }
 
 .button1:hover {
-    background-color: #006D9C; 
+    background-color: #005E26; 
     color: white;
 }
 
